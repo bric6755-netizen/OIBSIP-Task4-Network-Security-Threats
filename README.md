@@ -27,7 +27,7 @@ OIBSIP/
 │
 ├── README.md
 ├── network_security_threats_report.md
-└── images/
+└── LICENSE
 ```
 
 ## Topics Covered
