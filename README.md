@@ -1,60 +1,78 @@
-# README.md
-
-# OIBSIP - Security Analyst Internship
+# 🛡️ OIBSIP Security Analyst Internship
 
 ## Task 4: Research Report on Common Network Security Threats
 
 **Intern:** Richard Boakye Danquah
 
-**GitHub Username:** bric6755-netizen
+**GitHub:** https://github.com/bric6755-netizen
 
-**Internship:** Oasis Infobyte (OIBSIP)
+---
 
-## Objective
+## 📖 Project Overview
 
-This repository contains a comprehensive research report on common network security threats, including:
+This repository contains a comprehensive research report on common network security threats and their countermeasures.
 
-* Denial-of-Service (DoS) Attacks
-* Man-in-the-Middle (MITM) Attacks
-* Spoofing Attacks
+The report discusses:
 
-The report explains how these attacks work, their impacts on organizations, real-world examples, and recommended mitigation strategies.
+- Denial-of-Service (DoS) Attacks
+- Man-in-the-Middle (MITM) Attacks
+- Spoofing Attacks
+- Real-world cyber attacks
+- Prevention techniques
+- Network security best practices
 
-## Repository Structure
+---
+
+## 📂 Repository Structure
 
 ```
-OIBSIP/
+OIBSIP-Task4-Network-Security-Threats
 │
 ├── README.md
 ├── network_security_threats_report.md
-└── LICENSE
+├── LICENSE
 ```
 
-## Topics Covered
-
-* Introduction to Network Security
-* Denial-of-Service (DoS) Attacks
-* Man-in-the-Middle (MITM) Attacks
-* Spoofing Attacks
-* Real-World Cyber Attacks
-* Security Best Practices
-* Conclusion
-* References
-
-## Learning Outcomes
-
-Through this task, I gained a better understanding of:
-
-* Common cyber threats affecting computer networks
-* The impact of network attacks on businesses
-* Defensive security measures and mitigation strategies
-* Industry best practices for securing network infrastructure
-
-Add project README
 ---
 
-**Intern:** Richard Boakye Danquah
+## 🎯 Objectives
 
-**GitHub:** https://github.com/bric6755-netizen
+- Understand common network attacks
+- Analyze their impact on organizations
+- Explore defensive security measures
+- Learn cybersecurity best practices
 
-**Program:** Oasis Infobyte Security Analyst Internship (OIBSIP)
+---
+
+## 📚 Topics Covered
+
+- Introduction to Network Security
+- DoS and DDoS Attacks
+- MITM Attacks
+- Spoofing Attacks
+- Case Studies
+- Mitigation Strategies
+- Conclusion
+
+---
+
+## 🛠 Technologies
+
+- Markdown
+- GitHub
+
+---
+
+## 👨‍💻 Author
+
+Richard Boakye Danquah
+
+Security Analyst Intern
+
+GitHub: https://github.com/bric6755-netizen
+
+---
+
+## ⭐ Internship
+
+This repository was created as part of the **Oasis Infobyte (OIBSIP) Security Analyst Internship**.
